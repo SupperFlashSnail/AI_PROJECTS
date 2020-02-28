@@ -1,0 +1,6 @@
+model_checkpoint_path: "VGG16-980"
+all_model_checkpoint_paths: "VGG16-900"
+all_model_checkpoint_paths: "VGG16-920"
+all_model_checkpoint_paths: "VGG16-940"
+all_model_checkpoint_paths: "VGG16-960"
+all_model_checkpoint_paths: "VGG16-980"
