@@ -1,5 +1,5 @@
 # AI_PROJECTS
-AI AI algorithm summary and implementation project based on  tensorflow Python framework  and sklearn package
+AI algorithm summary and implementation project based on  tensorflow Python framework  and sklearn package
 
 ## 简介
 
