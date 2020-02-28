@@ -1,0 +1,38 @@
+* pytorch学些文档：
+https://pytorch-cn.readthedocs.io/zh/latest/
+
+* pytorch vision模块 提供基本数据集 网络架构 训练完成的模块
+https://pytorch.org/docs/stable/torchvision/index.html
+
+* Anaconda下载源：
+https://www.anaconda.com/distribution/
+https://www.jianshu.com/p/026a2c43b081
+
+* source insight 破解版下载
+https://www.cnblogs.com/lsdb/articles/9065738.html
+
+* pip install 国内源下载
+
+软件安装使用国内源安装：
+阿里云 https://mirrors.aliyun.com/pypi/simple/
+中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+豆瓣(douban) http://pypi.douban.com/simple/
+清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
+
+pip install 包名 -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
+* 深度学习课堂：
+224D 
+229D
+CS231
+
+* AI优秀论文网站 BenchMark
+http://www.benchmark.com/
+
+
+* 在线打字：
+https://dazi.kukuw.com/key.php?kid=k1
+
+* AI免费视屏网址
+https://software.intel.com/zh-cn/ai/get-started
